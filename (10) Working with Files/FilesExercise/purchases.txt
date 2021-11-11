@@ -1,0 +1,7 @@
+robert91    credit     49.50
+amelie54    paypal     195.50
+sherif12    paypal     99.99
+robert91    credit     12.00
+sherif12    credit     456.75
+steve1      paypal     34.99
+steve1      paypal     19.99

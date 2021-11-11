@@ -1,0 +1,15 @@
+ls: cannot access 'Sahara': No such file or directory
+cat: no_file.txt: No such file or directory
+ls: invalid option -- 'z'
+Try 'ls --help' for more information.
+ls: invalid option -- '7'
+Try 'ls --help' for more information.
+total 204
+-rw-rw-r-- 1 elemento elemento   429 Oct 31 11:12 cal.txt
+-rw-rw-r-- 1 elemento elemento     5 Oct 31 11:14 dog.txt
+-rw-rw-r-- 1 elemento elemento   226 Nov  3 20:19 error_log.txt
+-rw-rw-r-- 1 elemento elemento 93031 Oct 31 10:58 list.txt
+-rw-rw-r-- 1 elemento elemento 93031 Oct 31 11:02 sorted_list.txt
+-rw-rw-r-- 1 elemento elemento     0 Nov  3 20:05 sortedstuff.txt
+-rw-rw-r-- 1 elemento elemento    10 Nov  3 20:02 sounds.txt
+-rw-rw-r-- 1 elemento elemento    39 Oct 31 10:56 today.txt

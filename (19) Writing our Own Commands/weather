@@ -1,0 +1,17 @@
+#!/bin/bash
+
+case $1 in
+-h | --help)
+	echo "WELCOME TO WEATHER HELP"
+	echo "-3 for next 3 days of weather"
+	;;
+-3)
+	curl "wttr.in/Meerut"
+	;;
+-l | --location)
+	curl "wttr.in/$2"
+	;;
+*)
+	curl "wttr.in/Meerut?m1"
+	;;
+esac

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+DATE=`date +%m-%d-%Y-%M`
+BACKUP_DIR="/home/elemento/backups"
+
+tar -cvzf $BACKUP_DIR/backup-$DATE.tar.gz /home/elemento/bin
